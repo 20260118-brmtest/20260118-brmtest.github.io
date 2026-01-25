@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meetup on Tuesday 20th January
+title: Meetup on Tuesday 27th January
 sitemap: false
 hide_last_modified: true
 image:
