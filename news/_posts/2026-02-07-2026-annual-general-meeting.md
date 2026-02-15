@@ -19,6 +19,8 @@ The meeting will be hosted online, using the [Meetly](https://getmeetly.app/) pl
 
 # Proposed new constitution
 
+Changes are in **bold** (either additions, or deletions if struck through).
+
 ## 1. Name and Objectives
 
 The club shall be called Bristol Riichi Mahjong. The objectives of the club shall be to enable, facilitate and promote the playing of riichi mahjong in and around Bristol. It shall also seek to collaborate with other clubs to help promote the wider playing of riichi mahjong in the United Kingdom (UK) and Republic of Ireland (RoI).
