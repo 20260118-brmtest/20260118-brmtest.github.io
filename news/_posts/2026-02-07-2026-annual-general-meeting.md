@@ -118,9 +118,3 @@ Meetups should adhere to the following set of rules:
 ## 10. Dissolution
 
 Upon dissolution of the club its assets, after all debts and liabilities are paid, shall be distributed in accordance with the wishes of those voting at a General Meeting.
-
----
-
-_This constitution was voted in at the Annual General Meeting on 23rd February 2025._
-
-<!--author-->
