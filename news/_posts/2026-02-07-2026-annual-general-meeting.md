@@ -13,11 +13,11 @@ The meeting will be hosted online, using the [Meetly](https://getmeetly.app/) pl
 
 # Agenda
 
-1. Adoption of new constitution as proposed below
+1. Change of constitution (new constitution proposed below)
 1. Election of Executive
 1. AOB
 
-# Proposed new constitution 
+# Proposed new constitution
 
 ## 1. Name and Objectives
 
