@@ -1,23 +1,12 @@
 ---
-layout: post
-title: 2026 Annual General Meeting
-sitemap: false
-hide_last_modified: true
+layout: about
+description: >
+  For anyone in and around Bristol interested in 
+  playing riichi (Japanese) mahjong at any level!
+hide_description: true
 ---
 
-The club's Annual General Meeting will occur at 8pm on Tuesday 24th February.
-
-The meeting is open to all members. As a reminder, you're a member if you have completed at least one game at a club meetup in the last calendar year.
-
-The meeting will be hosted online, using the [Meetly](https://getmeetly.app/) platform, and the exact meeting link will be posted on the #bristol-info channel of the JanKenRon Discord server 15 minutes before the start time. If you are not a Discord user, you may instead have the meeting link emailed to you at the same time; please send an email to bristolriichimahjong@gmail.com to arrange this.
-
-# Agenda
-
-1. Adoption of new constitution as proposed below
-1. Election of Executive
-1. AOB
-
-# Proposed new constitution 
+# Constitution of Bristol Riichi Mahjong
 
 ## 1. Name and Objectives
 
@@ -33,10 +22,10 @@ The club shall be called Bristol Riichi Mahjong. The objectives of the club shal
 ## 3. Governing Body
 
 1. The governing body of the club shall be an elected Executive.
-1. The Executive will **~~include, at minimum,~~ be formed of** the following positions:
+1. The Executive will be formed of the following positions:
    1. Chair
    1. Co-chair
-   1. **Vice Chair (Organised Play)**
+   1. Vice Chair (Organised Play)
 1. The holders of these posts must be distinct individuals, and members of the club.
 
 ## 4. The Executive
@@ -44,7 +33,6 @@ The club shall be called Bristol Riichi Mahjong. The objectives of the club shal
 1. Members of the Executive have the power to:
    1. Deal with all business of the club and decide on policy.
    1. Ensure that the aims of the club (as set out in section 1) are carried out.
-   1. **~~Be the final authority for interpretation of the game and the rules at all events held by the club.~~**
    1. Form sub-committees for any purpose.
    1. Deal with urgent business of the club. If needed, these should be ratified at a subsequent General Meeting.
    1. Do anything ancillary to or connected with the above powers.
@@ -56,12 +44,12 @@ The club shall be called Bristol Riichi Mahjong. The objectives of the club shal
       1. They shall have unlimited authority over every question of order, unless challenged by a simple majority of the members present.
       1. On all voting matters, in the case of a tie, the Chair shall have a casting vote in addition to their ordinary vote.
       1. The Chair shall keep minutes of all meetings of the Executive and of General Meetings.
-      1. The Chair will be **~~responsible for all correspondence of~~ the primary point of external contact for** the club.
+      1. The Chair will be the primary point of external contact for the club.
    1. Co-chair:
       1. The Co-Chair shall support the Chair in performing their duties.
       1. The Co-Chair shall perform the duties of the Chair in the latter’s absence.
-   1. **Vice Chair (Organised Play):**
-      1. **Assists the Executive in organising Meetups (as set out in section 9).**
+   1. Vice Chair (Organised Play):
+      1. Assists the Executive in organising Meetups (as set out in section 9).
 
 ## 5. General Meetings
 
@@ -102,7 +90,7 @@ Changes to the constitution may only be made at a General Meeting, as described 
 
 ## 9. Meetups
 
-Club Meetups (hence: Meetups) are any gatherings organised officially under the club by the Executive **at which riichi mahjong is played**.
+Club Meetups (hence: Meetups) are any gatherings organised officially under the club by the Executive at which riichi mahjong is played.
 
 Meetups should adhere to the following set of rules:
 
@@ -113,7 +101,6 @@ Meetups should adhere to the following set of rules:
    1. The location of the Meetup
    1. Any costs for attendance to the Meetup
    1. Any limitations to attendance numbers for the Meetup
-   1. **~~The Rules of riichi mahjong games to be played at the Meetup (if defined as “casual games” then rules are at the discretion of the players during the Meetup).~~**
 
 ## 10. Dissolution
 
