@@ -38,7 +38,7 @@ The club shall be called Bristol Riichi Mahjong. The objectives of the club shal
 1. The Executive will **~~include, at minimum,~~ be formed of** the following positions:
    1. Chair
    1. Co-chair
-   1. **Vice Chair (Organised Play)**
+   1. **Organised Play Secretary**
 1. The holders of these posts must be distinct individuals, and members of the club.
 
 ## 4. The Executive
@@ -58,12 +58,12 @@ The club shall be called Bristol Riichi Mahjong. The objectives of the club shal
       1. They shall have unlimited authority over every question of order, unless challenged by a simple majority of the members present.
       1. On all voting matters, in the case of a tie, the Chair shall have a casting vote in addition to their ordinary vote.
       1. The Chair shall keep minutes of all meetings of the Executive and of General Meetings.
-      1. The Chair will be **~~responsible for all correspondence of~~ the primary point of external contact for** the club.
+      1. **~~The Chair will be responsible for all correspondence of the club.~~**
    1. Co-chair:
       1. The Co-Chair shall support the Chair in performing their duties.
       1. The Co-Chair shall perform the duties of the Chair in the latter’s absence.
-   1. **Vice Chair (Organised Play):**
-      1. **Assists the Executive in organising Meetups (as set out in section 9).**
+   1. **Organised Play Secretary:**
+      1. **Assists the rest of the Executive in organising Meetups (as set out in section 9).**
 
 ## 5. General Meetings
 
